@@ -1,0 +1,6 @@
+tls
+*.out
+opensips_*.cfg
+run.log
+dictionary.opensips
+scenario_callcenter.xml
